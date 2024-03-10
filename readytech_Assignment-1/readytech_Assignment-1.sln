@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeControllerTests", "CoffeeControllerTests\CoffeeControllerTests.csproj", "{749AEEB9-814B-4B11-A45D-709F385DA321}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadytechApi", "readytech-api\ReadytechApi.csproj", "{F95B2E58-7C32-4296-809F-D1FA2BD44ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749AEEB9-814B-4B11-A45D-709F385DA321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749AEEB9-814B-4B11-A45D-709F385DA321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749AEEB9-814B-4B11-A45D-709F385DA321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749AEEB9-814B-4B11-A45D-709F385DA321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95B2E58-7C32-4296-809F-D1FA2BD44ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95B2E58-7C32-4296-809F-D1FA2BD44ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95B2E58-7C32-4296-809F-D1FA2BD44ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95B2E58-7C32-4296-809F-D1FA2BD44ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA38604E-5C43-4802-9DAA-CDF64B35EE10}
+	EndGlobalSection
+EndGlobal
